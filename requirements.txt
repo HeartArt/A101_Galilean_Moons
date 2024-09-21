@@ -1,4 +1,4 @@
-astropy=='6.0.1'
-ipympl=='0.9.4'
-matplotlib=='3.9.2'
-numpy=='1.25.2'
+astropy==6.0.1
+ipympl==0.9.4
+matplotlib==3.9.2
+numpy==1.25.2
